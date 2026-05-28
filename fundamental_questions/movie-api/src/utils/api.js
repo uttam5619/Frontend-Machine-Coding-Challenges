@@ -1,0 +1,1 @@
+const api_url= `https://imdb236.p.rapidapi.com/api/imdb/cast/nm0000190/${movieName}`

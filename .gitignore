@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+fundamental_questions/movie-api/node_modules/
+fundamental_questions/movie-api/node_modules/@eslint-community/eslint-utils/node_modules/
+fundamental_questions/movie-api/node_modules/rolldown/node_modules/
+standard_questions/carousal/node_modules/
+standard_questions/carousal/node_modules/@eslint-community/eslint-utils/node_modules/
+standard_questions/pagination/node_modules/
+standard_questions/pagination/node_modules/@eslint-community/eslint-utils/node_modules/
+standard_questions/shoeShop/node_modules/
+standard_questions/shoeShop/node_modules/@eslint-community/eslint-utils/node_modules/
+standard_questions/slider/node_modules/
+standard_questions/slider/node_modules/@eslint-community/eslint-utils/node_modules/
+standard_questions/tabs/node_modules/
+standard_questions/tabs/node_modules/@eslint-community/eslint-utils/node_modules/
+standard_questions/tabs/node_modules/rolldown/node_modules/
+
+# Build outputs
+dist/
+build/
+.vite/
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Cache and temp files
+.cache/
+.tmp/
+tmp/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/

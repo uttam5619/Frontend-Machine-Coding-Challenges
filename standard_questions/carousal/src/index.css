@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+.carousal, .box {
+  width:180vh;
+  min-width: 200px;
+  height:60vh;
+  display:flex;
+  
+}
+
+.box{
+  position:relative;
+  top: 80px;
+  left:110px;
+}
+
+.box img[data-active='true'] {
+  opacity: 1;
+}
+
+.box img[data-active='false'] {
+  opacity: 0;
+}
+
+
+.app img{
+  box-sizing: border-box;
+  height: 100%;
+  width:100%;
+  min-width:100%;
+  left:0;
+  top:0;
+  object-fit: cover;
+  border-radius:6px;
+  position: absolute;
+  opacity:0;
+  transition: opacity 2s linear
+}
