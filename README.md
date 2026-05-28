@@ -17,4 +17,4 @@ This repository contains multiple React practice projects organized by question 
 
 ## Notes
 
-- `node_modules` and other generated files are ignored through the root `.gitignore`.
+- `node_modules` and other generated files are ignored through the root `.gitignore`
