@@ -14,6 +14,11 @@ standard_questions/slider/node_modules/@eslint-community/eslint-utils/node_modul
 standard_questions/tabs/node_modules/
 standard_questions/tabs/node_modules/@eslint-community/eslint-utils/node_modules/
 standard_questions/tabs/node_modules/rolldown/node_modules/
+standard_questions/infiniteScroll/node_modules/@eslint-community/eslint-utils/node_modules/
+standard_questions/infiniteScroll/node_modules/rolldown/node_modules/
+standard_questions/multiStepForm/node_modules/@eslint-community/eslint-utils/node_modules/
+standard_questions/multiStepForm/node_modules/rolldown/node_modules/
+
 
 # Build outputs
 dist/
