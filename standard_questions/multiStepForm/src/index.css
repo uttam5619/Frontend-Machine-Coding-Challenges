@@ -1,0 +1,17 @@
+.formContainer{
+  width:80%;
+  height:450px;
+  position:relative;
+  top:50px;
+  left:10%;
+  border:1px solid black;
+}
+
+
+.form{
+  width:80%;
+  height:90%;
+  margin:0px auto;
+  padding:3px;
+  border:1px solid red
+}
